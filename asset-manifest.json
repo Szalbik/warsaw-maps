@@ -1,14 +1,13 @@
 {
-  "main.css": "/warsaw-maps/static/css/main.7df02d45.chunk.css",
-  "main.js": "/warsaw-maps/static/js/main.0c4471a3.chunk.js",
-  "main.js.map": "/warsaw-maps/static/js/main.0c4471a3.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/warsaw-maps/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/warsaw-maps/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/warsaw-maps/static/css/main.809aa91d.chunk.css",
+  "main.js": "/warsaw-maps/static/js/main.962a2369.chunk.js",
+  "main.js.map": "/warsaw-maps/static/js/main.962a2369.chunk.js.map",
+  "static/js/1.5699cba3.chunk.js": "/warsaw-maps/static/js/1.5699cba3.chunk.js",
+  "static/js/1.5699cba3.chunk.js.map": "/warsaw-maps/static/js/1.5699cba3.chunk.js.map",
   "runtime~main.js": "/warsaw-maps/static/js/runtime~main.322e16e2.js",
   "runtime~main.js.map": "/warsaw-maps/static/js/runtime~main.322e16e2.js.map",
-  "static/media/logo.svg": "/warsaw-maps/static/media/logo.5d5d9eef.svg",
-  "static/css/main.7df02d45.chunk.css.map": "/warsaw-maps/static/css/main.7df02d45.chunk.css.map",
+  "static/css/main.809aa91d.chunk.css.map": "/warsaw-maps/static/css/main.809aa91d.chunk.css.map",
   "index.html": "/warsaw-maps/index.html",
-  "precache-manifest.62e677ad745be8b5d3a4469df63b5c89.js": "/warsaw-maps/precache-manifest.62e677ad745be8b5d3a4469df63b5c89.js",
+  "precache-manifest.c0607a80e1427452d67f7aed704ceb30.js": "/warsaw-maps/precache-manifest.c0607a80e1427452d67f7aed704ceb30.js",
   "service-worker.js": "/warsaw-maps/service-worker.js"
 }
