@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/warsaw-maps/precache-manifest.c0607a80e1427452d67f7aed704ceb30.js"
+  "/warsaw-maps/precache-manifest.2e4b6b2fcacee2602d7949a47afd06d6.js"
 );
 
 workbox.clientsClaim();

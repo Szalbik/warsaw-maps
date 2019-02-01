@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "962a2369eee49a807dc5",
+    "revision": "d652b58179b8e5428f61",
     "url": "/warsaw-maps/static/css/main.809aa91d.chunk.css"
   },
   {
-    "revision": "962a2369eee49a807dc5",
-    "url": "/warsaw-maps/static/js/main.962a2369.chunk.js"
+    "revision": "d652b58179b8e5428f61",
+    "url": "/warsaw-maps/static/js/main.d652b581.chunk.js"
   },
   {
     "revision": "5699cba34c860f65355a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/warsaw-maps/static/js/runtime~main.322e16e2.js"
   },
   {
-    "revision": "60997c178b39c2506a3e34c79ecd7bb9",
+    "revision": "98a71a2fcd538bef2692d1f011d09756",
     "url": "/warsaw-maps/index.html"
   }
 ];
